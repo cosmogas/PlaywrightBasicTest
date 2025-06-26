@@ -1,15 +1,8 @@
 PlaywrightBasicTest/
-│
-├── src/
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── qa/
-│                   └── playwrightbasictest/
-│                       ├── PlaywrightBasicTest.java
-│                       └── PlaywrightAdvancedTest.java
-├── pom.xml  (if using Maven)
-└── build.gradle (if using Gradle)
+
+PlaywrightBasicTest.java
+ PlaywrightAdvancedTest.java
+
 # Playwright Automation Testing with JUnit
 
 This repository demonstrates automated UI testing using [Playwright](https://playwright.dev/) with [JUnit 5](https://junit.org/junit5/). The tests focus on verifying the functionality of elements on the demo website [demoqa.com](https://demoqa.com/).
