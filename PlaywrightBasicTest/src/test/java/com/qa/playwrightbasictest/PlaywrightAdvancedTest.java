@@ -37,7 +37,7 @@ public class PlaywrightAdvancedTest {
         if (playwright != null) playwright.close();
     }
 
-   
+
 
     @Test
     @DisplayName("2. Navigate to Elements page")
